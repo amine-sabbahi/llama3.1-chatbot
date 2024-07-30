@@ -2,8 +2,9 @@ import streamlit as st
 import replicate
 import os
 
-# App page title
+# Page title
 st.set_page_config(page_title="Llama 3.1 🦙 Chatbot 🤖")
+
 
 # Replicate api key Credentials
 with st.sidebar:
