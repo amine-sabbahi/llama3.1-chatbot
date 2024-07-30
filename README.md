@@ -1,8 +1,9 @@
 # Llama 3.1 Chatbot
 
-This repository contains a Streamlit application for a chatbot powered by [Llama3.1-405B](https://replicate.com/meta/meta-llama-3.1-405b-instruct) llm from meta hosted in [replicate plateforme](https://replicate.com). The application is structured to include configuration files, application code, and dependencies required to run the chatbot.
+This repository contains a Streamlit application for a chatbot powered by the [Llama3.1-405B](https://replicate.com/meta/meta-llama-3.1-405b-instruct) LLM from Meta, hosted on the [Replicate platform](https://replicate.com). The application includes configuration files, application code, and dependencies required to run the chatbot. Additionally, I have integrated the [Llama3-8B](https://replicate.com/meta/meta-llama-3-8b) and [Llama3-70B](https://replicate.com/meta/meta-llama-3-70b) LLMs, allowing you to interact with them as well.
 
-You can try it live at this link: [llama3-1-chatbot](llama3-1-chatbot.streamlit.app)
+You can try it live at this link: [llama3-1-chatbot](https://llama3-1-chatbot.streamlit.app).
+
 
 ![app-interface](src/app1.png)
 
